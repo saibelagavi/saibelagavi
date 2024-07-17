@@ -1,4 +1,4 @@
-<img src="https://github.com/saibelagavi/saibelagavi/blob/main/3381.jpg?raw=true" alt="Futuristic Banner" width="100%" hieght="45%">
+<img src="https://github.com/saibelagavi/saibelagavi/blob/main/3381.jpg?raw=true" alt="Futuristic Banner" width="100%" hieght="25%">
 
 <div align="center">
 
