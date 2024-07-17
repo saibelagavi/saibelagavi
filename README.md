@@ -1,4 +1,4 @@
-<img src="https://via.placeholder.com/1200x200.png?text=Sainath+M.+Belagavi+|+Digital+Frontier+Explorer" alt="Futuristic Header Banner" width="100%">
+<img src="https://github.com/saibelagavi/saibelagavi/blob/main/banner.png?raw=true" alt="Futuristic Header Banner" width="100%">
 
 # Sainath M. Belagavi
 
