@@ -1,4 +1,4 @@
-<img src="[https://via.placeholder.com/1500x300.png?text=Sainath+M.+Belagavi+-+Digital+Frontier+Explorer](https://github.com/saibelagavi/saibelagavi/blob/main/3381.jpg?raw=true)" alt="Futuristic Banner" width="100%">
+<img src="https://github.com/saibelagavi/saibelagavi/blob/main/3381.jpg?raw=true" alt="Futuristic Banner" width="100%">
 
 <div align="center">
 
