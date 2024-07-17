@@ -1,12 +1,11 @@
 <img src="https://github.com/saibelagavi/saibelagavi/blob/main/banner.png?raw=true" alt="Futuristic Header Banner" width="100%">
 
-# Sainath M. Belagavi
+
 
 <div align="center">
 
-[![HoloLink](https://img.shields.io/badge/HoloLink-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=000000)](https://linkedin.com/in/Sainath-Belagavi)
-[![NeuroHub](https://img.shields.io/badge/NeuroHub-181717?style=for-the-badge&logo=github&logoColor=white&color=000000)](https://github.com/saibelagavi)
-[![QuantumMail](https://img.shields.io/badge/QuantumMail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=000000)](mailto:belagavisainath1@gmail.com)
+[![HoloLink](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=000000)](https://linkedin.com/in/Sainath-Belagavi)
+[![QuantumMail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=000000)](mailto:belagavisainath1@gmail.com)
 
 </div>
 
@@ -18,10 +17,10 @@
 
 <table>
   <tr>
-    <td align="center"><img src="https://via.placeholder.com/100x100.png?text=HyperFront" width="50px;" alt="HyperFront"/><br><sub><b>HyperFront</b></sub></td>
-    <td align="center"><img src="https://via.placeholder.com/100x100.png?text=NeuroBrain" width="50px;" alt="NeuroBrain"/><br><sub><b>NeuroBrain</b></sub></td>
-    <td align="center"><img src="https://via.placeholder.com/100x100.png?text=DataSphere" width="50px;" alt="DataSphere"/><br><sub><b>DataSphere</b></sub></td>
-    <td align="center"><img src="https://via.placeholder.com/100x100.png?text=AI+Nexus" width="50px;" alt="AI Nexus"/><br><sub><b>AI Nexus</b></sub></td>
+    <td align="center"><img src="https://github.com/saibelagavi/saibelagavi/blob/main/ai.png?raw=true" width="50px;" alt="HyperFront"/><br><sub><b>Generative-Ai</b></sub></td>
+    <td align="center"><img src="https://github.com/saibelagavi/saibelagavi/blob/main/machine.png?raw=true" width="50px;" alt="NeuroBrain"/><br><sub><b>Machine Learning</b></sub></td>
+    <td align="center"><img src="https://github.com/saibelagavi/saibelagavi/blob/main/web.png?raw=true" width="50px;" alt="DataSphere"/><br><sub><b>Full Stack Development</b></sub></td>
+    <td align="center"><img src="https://github.com/saibelagavi/saibelagavi/blob/main/iot.png?raw=true" width="50px;" alt="AI Nexus"/><br><sub><b>IOT</b></sub></td>
   </tr>
 </table>
 
