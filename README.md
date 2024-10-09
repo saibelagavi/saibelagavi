@@ -27,7 +27,7 @@
 
 ## 🚀 Reality Constructs
 
-<img src="https://github.com/saibelagavi/saibelagavi/blob/main/sherpa.png?raw=true" alt="Project Showcase" width="100%">
+<img src="https://github.com/saibelagavi/saibelagavi/blob/main/sherpa.PNG?raw=true" alt="Project Showcase" width="100%">
 
 
 ## 💾 Experience Continuum
