@@ -3,7 +3,7 @@
 
 [![HoloLink](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=000000)](https://linkedin.com/in/Sainath-Belagavi)
 [![QuantumMail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=000000)](mailto:belagavisainath1@gmail.com "Click to reveal email")
-[![HoloLink](https://github.com/saibelagavi/saibelagavi/blob/main/hface1.png?raw=true)]([https://linkedin.com/in/Sainath-Belagavi](https://huggingface.co/sainathBelagavi))
+[![HoloLink](https://github.com/saibelagavi/saibelagavi/blob/main/hface1.png?raw=true)]((https://huggingface.co/sainathBelagavi))
 
 </div>
 
