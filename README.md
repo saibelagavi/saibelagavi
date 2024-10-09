@@ -2,7 +2,7 @@
 <div align="center">
 
 [![HoloLink](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=000000)](https://linkedin.com/in/Sainath-Belagavi)
-[![QuantumMail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=000000)](https://mailhide.io/e/xxxxxxxx)
+[![QuantumMail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=000000)](https://github.com/saibelagavi/saibelagavi/issues/new?title=Email%20Request&body=Please%20send%20me%20your%20email%20address.%20Thanks!)
 
 </div>
 
@@ -46,6 +46,12 @@ next(future)  # Initiate the next quantum leap
 
 <div align="center">
 
-[🌌 Initiate Quantum Communication 🌌](https://mailhide.io/e/xxxxxxxx)
+[![Quantum Communication](https://img.shields.io/badge/Quantum%20Communication-Initiate-blueviolet?style=for-the-badge&logo=atom&logoColor=white)](https://github.com/saibelagavi/saibelagavi/issues/new?title=Quantum%20Communication%20Request&body=Greetings%20from%20the%20quantum%20realm!%20I'd%20like%20to%20initiate%20communication.)
 
 </div>
+
+<!-- 
+    Quantum entanglement engaged! 
+    My email: belagavisainath1@gmail.com
+    Decrypt with your quantum computer for instant communication!
+-->
