@@ -7,7 +7,7 @@
 </div>
 
 ## 🧠 Cognitive Interface
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2s3aXZ0YW9vZmR0Z2Y5MHJ4amYyNGg1dmdzOWg5bnA3Y284bDRiOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MT5UUV1d4CXE2A37Dg/giphy.gif" alt="Neural Network" width="50%" height="20%">
+<img src="https://media.giphy.com/media/6KirhLJyR7oMcwgJQk/giphy.gif?cid=ecf05e47v3cti3c5y7nrgft4jl8xfy9uju8p4mjtos7psipx&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="Neural Network" width="50%" height="20%">
 
 ## 🌌 Skill Nexus
 <table>
