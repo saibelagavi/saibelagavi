@@ -21,12 +21,13 @@
     <td align="center"><img src="https://github.com/saibelagavi/saibelagavi/blob/main/machine.png?raw=true" width="50px;" alt="NeuroBrain"/><br><sub><b>Machine Learning</b></sub></td>
     <td align="center"><img src="https://github.com/saibelagavi/saibelagavi/blob/main/web.png?raw=true" width="50px;" alt="DataSphere"/><br><sub><b>Full Stack Development</b></sub></td>
     <td align="center"><img src="https://github.com/saibelagavi/saibelagavi/blob/main/iot.png?raw=true" width="50px;" alt="AI Nexus"/><br><sub><b>IOT</b></sub></td>
+    <td align="center"><img src="https://github.com/saibelagavi/saibelagavi/blob/main/smartphone.png?raw=true" width="50px;" alt="AI Nexus"/><br><sub><b>IOT</b></sub></td>
   </tr>
 </table>
 
 ## 🚀 Reality Constructs
 
-<img src="https://via.placeholder.com/800x200.png?text=Holographic+Project+Showcase" alt="Project Showcase" width="100%">
+<img src="https://github.com/saibelagavi/saibelagavi/blob/main/sherpa.png?raw=true" alt="Project Showcase" width="100%">
 
 
 ## 💾 Experience Continuum
