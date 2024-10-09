@@ -27,14 +27,14 @@
 
 ## 🚀 Reality Constructs
 
+  #Virtual Startup mentor
 <img src="https://github.com/saibelagavi/saibelagavi/blob/main/sherpa.PNG?raw=true" alt="Project Showcase" width="100%">
+  #Legacy code Translater
+<img src="https://github.com/saibelagavi/saibelagavi/blob/main/codefussion.PNG?raw=true" alt="Project Showcase" width="100%">
 
 
-## 💾 Experience Continuum
 
-<img src="https://via.placeholder.com/800x150.PNG?text=Temporal+Experience+Timeline" alt="Experience Timeline" width="100%">
-
-## 🌈 Quantum Thought Stream
+##  Quantum Thought Stream
 
 ```python
 class QuantumMind:
@@ -55,8 +55,5 @@ next(future)  # Initiate the next quantum leap
 
 <div align="center">
 
----
-
-<img src="https://via.placeholder.com/800x50.png?text=Transcending+Digital+Boundaries+|+Shaping+Tomorrow's+Reality" alt="Futuristic Footer" width="100%">
 
 </div>
