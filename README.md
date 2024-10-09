@@ -21,7 +21,7 @@
     <td align="center"><img src="https://github.com/saibelagavi/saibelagavi/blob/main/machine.png?raw=true" width="50px;" alt="NeuroBrain"/><br><sub><b>Machine Learning</b></sub></td>
     <td align="center"><img src="https://github.com/saibelagavi/saibelagavi/blob/main/web.png?raw=true" width="50px;" alt="DataSphere"/><br><sub><b>Full Stack Development</b></sub></td>
     <td align="center"><img src="https://github.com/saibelagavi/saibelagavi/blob/main/iot.png?raw=true" width="50px;" alt="AI Nexus"/><br><sub><b>IOT</b></sub></td>
-    <td align="center"><img src="https://github.com/saibelagavi/saibelagavi/blob/main/smartphone.png?raw=true" width="50px;" alt="AI Nexus"/><br><sub><b>IOT</b></sub></td>
+    <td align="center"><img src="https://github.com/saibelagavi/saibelagavi/blob/main/smartphone.png?raw=true" width="50px;" alt="AI Nexus"/><br><sub><b>Flutter Development</b></sub></td>
   </tr>
 </table>
 
@@ -32,7 +32,7 @@
 
 ## 💾 Experience Continuum
 
-<img src="https://via.placeholder.com/800x150.png?text=Temporal+Experience+Timeline" alt="Experience Timeline" width="100%">
+<img src="https://via.placeholder.com/800x150.PNG?text=Temporal+Experience+Timeline" alt="Experience Timeline" width="100%">
 
 ## 🌈 Quantum Thought Stream
 
